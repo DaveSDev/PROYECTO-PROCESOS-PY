@@ -5,4 +5,4 @@ plataforma de Stack Overflow en Español.
 Para ello, el usuario debe ingresar el ID del Usuario de Stack Overflow en Español, y la aplicación debe ser capaz de generar su nube de palabras (imagen) de etiquetas.
 
 ## Integrantes: 
-Khiabet Lasso, Ricardo Solozarno, Dave Delgado
+Khiabet Lasso, Ricardo Solorzano, Dave Delgado
